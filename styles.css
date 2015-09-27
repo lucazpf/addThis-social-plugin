@@ -1,58 +1,50 @@
-.addthis_toolbox {
-	text-align: right;
+.social-box {
 	clear: both;
-margin-right:-27px;
 }
 
-.addthis_toolbox img {
-float: left;
-height: 25px;
-margin-right: 10px;
-width: auto;
+.social-box img {
+	height: 25px;
+	margin-right: 10px;
+	width: auto;
 }
 
  .social-container {
 	float: left;
-height: 25px;
-width: auto;
-}
-
-#facebook-button, #twitter-button, #pin-button, #gplus-button {
-display:none;
-}
-
-
-#facebook-button{
-float:right;
-margin-left:-6px;
-margin-right:10px;
-margin-top:3px;
-display:none;
 
 }
 
-#twitter-button{
-float:right;
-margin-left:-6px;
-margin-right:10px;
-margin-top:3px;
-display:none;
+#fb-button, #twitter-button, #gplus-button, #in-button {
+	display:none;
+}
 
+
+#fb-button {
+	float:right;
+	margin-left:-6px;
+	margin-right:10px;
+	margin-top:3px;
 
 }
-#pin-button{
-float:right;
-margin-left:-6px;
-margin-right:10px;
-margin-top:3px;
-display:none;
+
+#twitter-button {
+	float:right;
+	margin-left:-6px;
+	margin-right:10px;
+	margin-top:3px;
+}
+
+#gplus-button	{
+	float:right;
+	margin-left:-6px;
+	margin-right:-20px;
+	margin-top:3px;
+}
+
+#in-button {
+	float:right;
+	margin-left:-6px;
+	margin-right:10px;
+	margin-top:3px;
+}
 
 
-}
-#gplus-button{
-float:right;
-margin-left:-6px;
-margin-right:-20px;
-margin-top:3px;
-display:none;
-}
